@@ -1,5 +1,5 @@
-.scss
 .sass-cache/
+*.scss
 *.css.map
 *.sass.map
 *.scss.map
